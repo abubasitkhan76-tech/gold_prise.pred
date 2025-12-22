@@ -1,0 +1,1 @@
+# gold_prise.pred
